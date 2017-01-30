@@ -20,5 +20,6 @@
 - [alt19](http://alt19.com)
 
 
-### Bitcointalk Thread
-[https://bitcointalk.org/index.php?topic=1502028](https://bitcointalk.org/index.php?topic=1502028)
+### Forum
+- [Bitcointalk](https://bitcointalk.org/index.php?topic=1502028)
+- [Cryptopia](https://www.cryptopia.co.nz/Forum/Thread/1097)
