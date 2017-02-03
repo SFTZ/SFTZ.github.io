@@ -1,7 +1,7 @@
 ### Specifications
 - Max money: 42 coins
 - Transaction confirmation method: PoS+PoW
-- Transaction type: Public & [Anonymous](https://bitcointalk.org/index.php?topic=1502028.msg17092343#msg17092343)
+- Transaction type: Public & <a href="https://bitcointalk.org/index.php?topic=1502028.msg17092343#msg17092343" target="_blank">Anonymous</a>
 - Number of transaction confirmation: 7
 - Number of block confirmation: 42
 - PoS reward: 0 coin // makes 42 an extremely rare
@@ -16,10 +16,10 @@
 
 
 ### Charts, Graphs & Tools
-- [Coinmarketcap](http://coinmarketcap.com/currencies/42-coin)
-- [alt19](http://alt19.com)
+- <a href="http://coinmarketcap.com/currencies/42-coin" target="_blank">Coinmarketcap</a>
+- <a href="http://alt19.com" target="_blank">alt19</a>
 
 
 ### Forum
-- [Bitcointalk](https://bitcointalk.org/index.php?topic=1502028)
-- [Cryptopia](https://www.cryptopia.co.nz/Forum/Thread/1097)
+- <a href="https://bitcointalk.org/index.php?topic=1502028" target="_blank">Bitcointalk</a>
+- <a href="https://www.cryptopia.co.nz/Forum/Thread/1097" target="_blank">Cryptopia</a>
