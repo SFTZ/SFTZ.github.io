@@ -10,7 +10,7 @@
 
 
 ### Exchange
-<a href="https://www.cryptopia.co.nz/Exchange?market=42_BTC" target="_blank"><img src="https://www.cryptopia.co.nz/Content/Images/Cryptopia2.png"></a>
+<a href="https://www.cryptopia.co.nz/Exchange?market=42_BTC" target="_blank"><img src="http://i.imgur.com/vVOSHup.png"></a>
 
 
 ### Tox Chat
@@ -21,11 +21,11 @@
 
 
 ### IRC Channel
-<a href="https://kiwiirc.com/client/chat.freenode.net/?nick=username&theme=cli##42coin" target="_blank"><img src="http://i.imgur.com/bt5Iebw.png"></a>
+<a href="https://kiwiirc.com/client/chat.freenode.net/?nick=username&theme=cli##42coin" target="_blank"><img src="http://i.imgur.com/o1s1Tbv.png"></a>
 
 
 ### Apps Supporting 42
-<a href="https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian" target="_blank"><img src="http://i.imgur.com/8cic5yB.png"></a>    <a href="https://play.google.com/store/apps/details?id=bitcoin.buzz.feeds" target="_blank"><img src="http://i.imgur.com/IWFLulr.png"></a>
+<a href="https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian" target="_blank"><img src="http://i.imgur.com/qzKM8Vo.png"></a>    <a href="https://play.google.com/store/apps/details?id=bitcoin.buzz.feeds" target="_blank"><img src="http://i.imgur.com/oOp3Tqo.png"></a>
 
 
 ##### Donate
