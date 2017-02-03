@@ -6,7 +6,7 @@
 
 
 ### Pool
-<a href="https://prohashing.com" target="_blank"><img src="http://i.imgur.com/TnwfdNu.png"></a>  Mine the most profitable scrypt coins and get paid in 42!
+<a href="https://prohashing.com" target="_blank">PROHASHING</a> - mine the most profitable scrypt coins and get paid in 42!
 
 
 ### Exchange
