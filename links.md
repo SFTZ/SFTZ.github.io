@@ -14,7 +14,7 @@
 
 
 ### Exchange
-<a href="https://www.cryptopia.co.nz/Exchange?market=42_BTC" target="_blank"><img src="https://www.cryptopia.co.nz/Content/Images/Cryptopia2.png"></a>
+<a href="https://www.cryptopia.co.nz/Exchange?market=42_BTC" target="_blank"><img src="http://i.imgur.com/Q2iDPsQ.png"></a>
 
 
 ### IRC Channel
