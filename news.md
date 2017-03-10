@@ -38,6 +38,7 @@ Back to the limited supply was not my idea, it was the original idea of this coi
 Q: could you tell us more about where you see Blockchain technology in the future?”
 
 I believe that Blockchain technology would be widespread implemented in all trustworthy services where it is applicable, especially in finance sector, voting and notary systems, metadata protection, etc.
+
 RELATED ITEMS:42-COIN, BLOCKCHAIN, DIGITAL CURRENCY
 
 
