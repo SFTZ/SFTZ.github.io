@@ -17,6 +17,7 @@
 
 ### Charts, Graphs & Tools
 - <a href="http://coinmarketcap.com/currencies/42-coin" target="_blank">Coinmarketcap</a>
+- <a href="https://bitinfocharts.com/ru/markets/cryptopia/42-btc.html" target="_blank">BitInfoCharts</a>
 - <a href="http://alt19.com" target="_blank">alt19</a>
 
 
