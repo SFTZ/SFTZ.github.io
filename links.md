@@ -6,7 +6,7 @@
 
 
 ### Block Explorers
-<a href="https://chainz.cryptoid.info/42" target="_blank"><img src="http://i.imgur.com/VVJVbXK.png"></a>    <a href="https://prohashing.com/explorer/42" target="_blank"><img src="http://i.imgur.com/TnwfdNu.png"></a>
+<a href="https://chainz.cryptoid.info/42/" target="_blank"><img src="http://i.imgur.com/VVJVbXK.png"></a>    <a href="https://prohashing.com/explorer/42" target="_blank"><img src="http://i.imgur.com/TnwfdNu.png"></a>
 
 
 ### Pool
@@ -15,6 +15,10 @@
 
 ### Exchange
 <a href="https://www.cryptopia.co.nz/Exchange?market=42_BTC" target="_blank"><img src="http://i.imgur.com/Q2iDPsQ.png"></a>
+
+
+### Payment Processor
+<a href="https://cointopay.com/" target="_blank"><img src="http://i.imgur.com/xBheu1m.png"></a>
 
 
 ### IRC Channel
