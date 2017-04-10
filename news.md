@@ -50,5 +50,7 @@ RELATED ITEMS:42-COIN, BLOCKCHAIN, DIGITAL CURRENCY
 - <a href="http://crypto-coins.ru/kriptovalyuty/42coin-ili-kriptomoneta-stoimostyu-v-million-dollarov" target="_blank">42Coin или криптомонета стоимостью в миллион долларов</a> (22.02.2014/RU)
 - <a href="http://www.ibtimes.co.uk/think-bitcoin-expensive-try-42-coin-100000-cryptocurrency-1435107" target="_blank">Think Bitcoin is Expensive? Try 42 Coin, The £100,000 Cryptocurrency</a> (04.02.2014/EN)
 - <a href="http://yareg.com/cryptocurrency/42coin-v-sotni-raz-dorozhe-bitcoin" target="_blank">42COIN В СОТНИ РАЗ ДОРОЖЕ BITCOIN</a> (25.01.2014/RU)
+- <a href="https://shkolazhizni.ru/money/articles/65124" target="_blank">Криптовалюта 42Coin. А есть ли современная монета стоимостью в миллион долларов?</a> (20.01.2014/RU)
+- <a href="https://altcoinspekulant.wordpress.com/tag/42-coin" target="_blank">Super-Deflations-Coins: Selten, seltener am seltensten</a> (17.01.2014/DE)
 - <a href="http://litecoinblog.org/new-cryptocurrency-42coin-42-coins" target="_blank">New Cryptocurrency: 42Coin: Only 42 Coins</a> (16.01.2014/EN)
 - <a href="http://www.businessinsider.com/introducing-42coin-2014-1" target="_blank">'42Coin' Is Less Than Two Weeks Old And Already One Coin Is Worth WAY More Than A Bitcoin</a> (14.01.2014/EN)
