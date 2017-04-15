@@ -1,6 +1,7 @@
 #### Latest
 
 <a href="https://techannouncer.com/interview-with-42-coin-a-pospow-coin-with-public-and-anonymous-transactions" target="_blank">Interview with 42-Coin: a PoS+PoW coin with public and anonymous transactions</a>
+08.03.2017
 
 Q: What can you tell us about your currency?
 
