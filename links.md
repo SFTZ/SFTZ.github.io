@@ -5,8 +5,12 @@
 <a href="https://42-address.github.io" target="_blank"><img src="http://i.imgur.com/AU1BZTo.png"></a>    <a href="https://walletgenerator.net/?culture=en&currency=42coin#" target="_blank"><img src="http://i.imgur.com/9UwmlsR.png"></a>
 
 
-### Block Explorer
-<a href="https://chainz.cryptoid.info/42/" target="_blank"><img src="http://i.imgur.com/VVJVbXK.png"></a>
+### Block Explorers
+<a href="https://chainz.cryptoid.info/42/" target="_blank"><img src="http://i.imgur.com/VVJVbXK.png"></a>    <a href="https://prohashing.com/explorer/42" target="_blank"><img src="http://i.imgur.com/TnwfdNu.png"></a>
+
+
+### Pool
+<a href="https://prohashing.com" target="_blank">PROHASHING</a> - mine the most profitable scrypt coins and get paid in 42!
 
 
 ### Exchange
