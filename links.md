@@ -33,5 +33,9 @@
 - Development: 4JtMuCaWGKwoi1HhMcsMJS1UpifrWARh6o
 - Bounty Fund: 4SZt2wkjzTvhMN5CfNbMNzCt4e4dbY79V9
 
+##### Anon. Donate
+5GRHyC9rEvhzhaixWm1ncqk5SpHbBUEmYzQvu2zcnWjj41kNTTqCLKp7Vewnw3Xsr5bpV7EDHuA9PFnQrJh6VQ7StAHngd4aeud
+
+
 
 42 has no premine and never been sold at the ICO, all coins are distributed fairly through the mining and trade. All works are paid through donations or doing by enthusiasts.
