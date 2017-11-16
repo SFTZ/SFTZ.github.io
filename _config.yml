@@ -7,7 +7,7 @@
 
 # Site settings
 title: SABR
-email: SABR-1331@protonmail.com
+email: sabr-coin@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
  SABR - is an open source cryptocurrency for a real business
 baseurl: "" # the subpath of your site, e.g. /blog
